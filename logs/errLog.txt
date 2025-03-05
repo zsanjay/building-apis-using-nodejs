@@ -1,0 +1,20 @@
+20250301	19:13:29	4d23fd31-bab7-4440-b2ca-a35711acd121	TypeError : fsPromises.readFil is not a function
+20250302	16:06:18	a85d035a-4282-4f3f-bed1-3f51a493c4f8	Error : Not allowed by CORS
+20250302	16:06:18	3e230b76-20de-49a1-8d44-459805c3fcc7	Error : Not allowed by CORS
+20250302	18:24:40	b300e9d8-fe1e-4a84-9e03-6fc0c7a51284	TypeError : req.accept is not a function
+20250302	18:27:26	3c6a5cb7-e8f3-41b7-90cb-ed3a5cd2cf6c	Error : ENOENT: no such file or directory, stat '/Users/sanjay/Documents/Sanjay/Nodejs/Beginner Course Dave Gray/views/test.html'
+20250302	18:28:06	3ad25886-d79e-42d8-a9dc-b5a36aa41bac	TypeError : req.accept is not a function
+20250302	18:28:10	05ae34c7-7e05-4c95-b177-9e0973cc7d32	TypeError : req.accept is not a function
+20250302	18:29:21	42de9f83-8a31-4005-909f-339452c2362c	TypeError : req.accept is not a function
+20250302	18:29:26	3c12bc53-4757-4056-b7f7-87211cc35a9d	TypeError : req.accept is not a function
+20250302	18:34:27	962d4d2b-9c31-4fdf-88da-2dc5a1337927	TypeError : req.accept is not a function
+20250302	18:34:32	a7ca452a-e375-4fb4-8b01-7bbc8da9159e	TypeError : req.accept is not a function
+20250302	18:34:36	ab8ad718-6b58-4127-abde-a413358b6641	TypeError : req.accept is not a function
+20250302	18:34:36	b9123970-30b1-4598-8e7a-082f78f08524	TypeError : req.accept is not a function
+20250302	18:34:51	f64f84a3-c781-4c01-8754-b12f5292ec6f	TypeError : req.accept is not a function
+20250302	18:34:56	fbdd6051-de6b-421e-80f4-1add1c57b81a	TypeError : req.accept is not a function
+20250302	18:34:56	c20c2df4-9de4-463e-8b56-19b04fd1c1a1	TypeError : req.accept is not a function
+20250302	18:35:08	f28c83ec-594f-4135-9b10-d5adbca64bdc	TypeError : req.accept is not a function
+20250302	18:35:08	c1c8713d-e21f-4afd-987d-2f91f41cef79	TypeError : req.accept is not a function
+20250302	18:35:37	b29eb22e-b535-4891-b5b2-138c0bb9d97c	TypeError : req.accept is not a function
+20250302	18:35:37	5bc8f8a6-afef-4dce-a7a4-585fb15d0227	TypeError : req.accept is not a function
